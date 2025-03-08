@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+318
+'Bienvenidos estimado usuario, en este programa, el usuario ingresa por teclado una nota académica fundamentación en algoritmos y diagramas de flujo (de cero a 5) correspondiente a la nota final de una asignatura, y el pc debe mostrar en pantalla: si la nota ingresada es mala, buena, es sobresaliente o es excelente.'
+4
+1
+57
+'Ingresa la nota de la materia, recuerda que es de 0 a 5'
+5
+1
+4
+nota
+7
+0
+1
+25
+nota >= 0 AND nota <= 2.9
+7
+0
+1
+23
+nota >= 3 AND nota <= 4
+7
+0
+1
+27
+nota >= 4.1 AND nota <= 4.5
+7
+0
+1
+25
+nota >= 4.6 AND nota <= 5
+13
+4
+1
+22
+'La nota es excelente'
+13
+13
+4
+1
+26
+'La nota es sobresaliente'
+13
+13
+4
+1
+18
+'La nota es buena'
+13
+13
+4
+1
+17
+'La nota es mala'
+13
+4
+1
+36
+'Gracias por usar nuestro algoritmo'
+1

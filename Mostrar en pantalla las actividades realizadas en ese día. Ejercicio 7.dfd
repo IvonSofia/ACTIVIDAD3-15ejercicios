@@ -1,0 +1,100 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+182
+'Bienvenidos estimado usuario, en este programa, el usuario ingresa por teclado un día de la semana en letras y el pc debe mostrar en pantalla las actividades realizadas en ese día.'
+4
+1
+59
+'Señor usuario por favor ingresar el mes del año en letras'
+5
+1
+7
+semanas
+7
+0
+1
+59
+semanas = 'Lunes' OR semanas = 'LUNES' OR semanas = 'lunes'
+7
+0
+1
+62
+semanas = 'Martes' OR semanas = 'MARTES' OR semanas = 'martes'
+7
+0
+1
+146
+semanas = 'Miércoles' OR semanas = 'MIÉRCOLES' OR semanas = 'miércoles' OR semanas = 'MIERCOLES' OR semanas = 'Miercoles' OR semanas = 'miercoles'
+7
+0
+1
+62
+semanas = 'Jueves' OR semanas = 'JUEVES' OR semanas = 'jueves'
+7
+0
+1
+66
+semanas = 'Viernes'  OR semanas = 'VIERNES' OR semanas = 'viernes'
+7
+0
+1
+128
+semanas = 'Sábado' OR semanas = 'SÁBADO' OR semanas = 'sábado' OR semanas = 'SABADO' OR semanas = 'Sabado' OR semanas = 'sabado'
+7
+0
+1
+65
+semanas = 'Domingo' OR semanas = 'DOMINGO' OR semanas = 'domingo'
+13
+4
+1
+39
+'Actividades: Se descansa los domingos'
+13
+13
+4
+1
+91
+'Actividades: 1) Se estudia la electiva 2)  fundamentacion matematicas por parte del ITFIP'
+13
+13
+4
+1
+91
+'Actividades: 1) Me preparo para recibir las clases de arquitectura de hardware y software'
+13
+13
+4
+1
+143
+'Actividades: 1) Se estudia un poco en crehana y despues me preparo para recibir las clases de fundamentacion matematica de 8:00 Pm a 10:00 Pm'
+13
+13
+4
+1
+91
+'Actividades: 1) Me preparo para recibir las clases de habilidades comunicativas del ITFIP'
+13
+13
+4
+1
+108
+'Actividades: 1) Los martes me preparo para las clases logica de programacion en ITFIP de 6:00 Pm a 9:00 Pm'
+13
+13
+4
+1
+137
+'Actividades: 1) Estudio un poco en una plataforma llamada Udemy 2) En la tarde me preparo para las clases de fundamentacion matematicas'
+13
+4
+1
+36
+'Gracias por usar nuestro algoritmo'
+1

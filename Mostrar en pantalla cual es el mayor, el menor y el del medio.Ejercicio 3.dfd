@@ -1,0 +1,94 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+'BIENVENIDO AL ALGORITMO'
+4
+1
+179
+'Este es un programa donde el usuario ingresa por teclado tres numero diferentes, positivos y enteros y el PC debe mostrar en pantalla: cual es el mayor, el menor y el del medio.'
+4
+1
+61
+'Ingresa por favor el primer, segundo y tercer valor numero.'
+5
+1
+4
+Num1
+5
+1
+4
+Num2
+5
+1
+4
+Num3
+7
+0
+1
+11
+Num1 < Num2
+7
+1
+1
+11
+Num1 < Num3
+4
+1
+92
+'El numero menor es: ',Num2,', el numero intermedio es: ',Num1,' y el numero mayor es:',Num3
+13
+7
+0
+1
+11
+Num2 < Num3
+4
+1
+92
+'El numero menor es: ',Num3,', el numero intermedio es: ',Num2,' y el numero mayor es:',Num1
+13
+4
+1
+92
+'El numero menor es: ',Num2,', el numero intermedio es: ',Num3,' y el numero mayor es:',Num1
+13
+13
+13
+7
+0
+1
+11
+Num2 < Num3
+7
+0
+1
+11
+Num1 < Num3
+4
+1
+92
+'El numero menor es: ',Num3,', el numero intermedio es: ',Num1,' y el numero mayor es:',Num2
+13
+4
+1
+92
+'El numero menor es: ',Num1,', el numero intermedio es: ',Num3,' y el numero mayor es:',Num2
+13
+13
+4
+1
+92
+'El numero menor es: ',Num1,', el numero intermedio es: ',Num2,' y el numero mayor es:',Num3
+13
+13
+4
+1
+38
+'Fin del programa, Gracias por usarlo'
+1

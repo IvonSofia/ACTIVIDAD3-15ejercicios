@@ -1,0 +1,100 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+200
+'Bienvenidos estimado usuario, en este programa, el usuario ingresa por teclado un numero de 1 a 7 y el pc debe mostrar en pantalla: que día de la semana es. teniendo en cuenta que el día 1 es lunes.'
+4
+1
+58
+'Ingresa por favor un numero, recuerda que es del 1 al 7.'
+5
+1
+9
+diaSemana
+7
+0
+1
+13
+diaSemana = 1
+7
+0
+1
+13
+diaSemana = 2
+7
+0
+1
+13
+diaSemana = 3
+7
+0
+1
+13
+diaSemana = 4
+7
+0
+1
+13
+diaSemana = 5
+7
+0
+1
+13
+diaSemana = 6
+7
+0
+1
+13
+diaSemana = 7
+13
+4
+1
+47
+'El numero ', diaSemana, ' equivale a Domingo.'
+13
+13
+4
+1
+46
+'El numero ', diaSemana, ' equivale a Sabado.'
+13
+13
+4
+1
+47
+'El numero ', diaSemana, ' equivale a Viernes.'
+13
+13
+4
+1
+46
+'El numero ', diaSemana, ' equivale a Jueves.'
+13
+13
+4
+1
+49
+'El numero ', diaSemana, ' equivale a Miercoles.'
+13
+13
+4
+1
+46
+'El numero ', diaSemana, ' equivale a Martes.'
+13
+13
+4
+1
+45
+'El numero ', diaSemana, ' equivale a Lunes.'
+13
+4
+1
+36
+'Gracias por usar nuestro algoritmo'
+1

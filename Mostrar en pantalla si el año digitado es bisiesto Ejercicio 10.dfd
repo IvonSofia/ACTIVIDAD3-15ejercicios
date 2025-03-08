@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+159
+'Bienvenidos estimado usuario, en este programa, el usuario ingresa por teclado un año (D.C.) y el pc debe mostrar en pantalla: si el año digitado es bisiesto'
+4
+1
+82
+'Estimado usuario, por favor ingresar un año en numero, recordar que son años D.C'
+5
+1
+3
+AÑO
+7
+0
+1
+13
+AÑO MOD 4 = 0
+4
+1
+33
+'El año ingresado no es bisiesto'
+13
+7
+0
+1
+15
+AÑO MOD 100 = 0
+4
+1
+30
+'El año ingresado es bisiesto'
+13
+7
+0
+1
+15
+AÑO MOD 400 = 0
+4
+1
+33
+'El año ingresado no es bisiesto'
+13
+4
+1
+30
+'El año ingresado es bisiesto'
+13
+13
+13
+4
+1
+36
+'Gracias por usar nuestro algoritmo'
+1

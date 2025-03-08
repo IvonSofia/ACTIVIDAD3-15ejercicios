@@ -1,0 +1,159 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+158
+'Bienvenidos estimado usuario, en este programa, el usuario ingresa por teclado un mes del año en letras y el pc debe mostrar en pantalla que mes del año es.'
+4
+1
+46
+'Por favor ingresar el mes del año en letras.'
+5
+1
+5
+meses
+7
+0
+1
+53
+meses = 'Enero' OR meses = 'enero' OR meses = 'ENERO'
+7
+0
+1
+59
+meses = 'Febrero' OR meses = 'febrero' OR meses = 'FEBRERO'
+7
+0
+1
+53
+meses = 'Marzo' OR meses = 'marzo' OR meses = 'MARZO'
+7
+0
+1
+53
+meses = 'Abril' OR meses = 'abril' OR meses = 'ABRIL'
+7
+0
+1
+50
+meses = 'MAYO' OR meses = 'mayo' OR meses = 'Mayo'
+7
+0
+1
+53
+meses = 'Junio' OR meses = 'junio' OR meses = 'JUNIO'
+7
+0
+1
+53
+meses = 'JULIO' OR meses = 'julio' OR meses = 'Julio'
+7
+0
+1
+56
+meses = 'AGOSTO' OR meses = 'agosto' OR meses = 'Agosto'
+7
+0
+1
+68
+meses = 'SEPTIEMBRE' OR meses = 'septiembre' OR meses = 'Septiembre'
+7
+0
+1
+59
+meses = 'OCTUBRE' OR meses = 'octubre' OR meses = 'Octubre'
+7
+0
+1
+66
+meses = 'NOVIEMBRE' OR meses = 'noviembre'  OR meses = 'Noviembre'
+7
+0
+1
+65
+meses = 'DICIEMBRE' OR meses = 'diciembre' OR meses = 'Diciembre'
+4
+1
+52
+'Señor usuario escriba bien el año que deseas saber'
+13
+4
+1
+2
+12
+13
+13
+4
+1
+2
+11
+13
+13
+4
+1
+2
+10
+13
+13
+4
+1
+1
+9
+13
+13
+4
+1
+1
+8
+13
+13
+4
+1
+1
+7
+13
+13
+4
+1
+1
+6
+13
+13
+4
+1
+1
+5
+13
+13
+4
+1
+1
+4
+13
+13
+4
+1
+1
+3
+13
+13
+4
+1
+1
+2
+13
+13
+4
+1
+1
+1
+13
+4
+1
+36
+'Gracias por usar nuestro algoritmo'
+1

@@ -1,0 +1,159 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+216
+'Bienvenidos estimado usuario, en este programa, el usuario ingresa por teclado un mes del año en letras y el pc debe mostrar en pantalla cuantos días tiene el mes digitado, el mes de febrero se considera de 28 días'
+4
+1
+54
+'Usuario ingrese el mes del año en letras para operar'
+5
+1
+5
+meses
+7
+0
+1
+53
+meses = 'Enero' OR meses = 'ENERO' OR meses = 'enero'
+7
+0
+1
+59
+meses = 'Febrero' OR meses = 'FEBRERO' OR meses = 'febrero'
+7
+0
+1
+53
+meses = 'Marzo' OR meses = 'MARZO' OR meses = 'marzo'
+7
+0
+1
+52
+meses ='Abril' OR meses = 'ABRIL' OR meses = 'abril'
+7
+0
+1
+50
+meses = 'Mayo' OR meses = 'MAYO' OR meses = 'mayo'
+7
+0
+1
+53
+meses = 'Junio' OR meses = 'JUNIO' OR meses = 'junio'
+7
+0
+1
+53
+meses = 'Julio' OR meses = 'JULIO' OR meses = 'julio'
+7
+0
+1
+56
+meses = 'Agosto' OR meses = 'AGOSTO' OR meses = 'agosto'
+7
+0
+1
+68
+meses = 'Septiembre' OR meses = 'SEPTIEMBRE' OR meses = 'septiembre'
+7
+0
+1
+59
+meses = 'Octubre' OR meses = 'OCTUBRE' OR meses = 'octubre'
+7
+0
+1
+66
+meses = 'Noviembre' OR meses = 'NOVIEMBRE' OR meses = 'noviembre' 
+7
+0
+1
+65
+meses = 'Diciembre' OR meses = 'DICIEMBRE' OR meses = 'diciembre'
+4
+1
+46
+'el mes digitado no existe o esta mal escrito'
+13
+4
+1
+28
+'Este mes consta de 31 días'
+13
+13
+4
+1
+28
+'Este mes consta de 30 días'
+13
+13
+4
+1
+28
+'Este mes consta de 31 días'
+13
+13
+4
+1
+28
+'Este mes consta de 30 días'
+13
+13
+4
+1
+28
+'Este mes consta de 31 días'
+13
+13
+4
+1
+28
+'Este mes consta de 31 días'
+13
+13
+4
+1
+28
+'Este mes consta de 30 días'
+13
+13
+4
+1
+28
+'Este mes consta de 31 días'
+13
+13
+4
+1
+28
+'Este mes consta de 30 días'
+13
+13
+4
+1
+28
+'Este mes consta de 31 días'
+13
+13
+4
+1
+28
+'Este mes consta de 28 días'
+13
+13
+4
+1
+28
+'Este mes consta de 31 días'
+13
+4
+1
+36
+'Gracias por usar nuestro algoritmo'
+1

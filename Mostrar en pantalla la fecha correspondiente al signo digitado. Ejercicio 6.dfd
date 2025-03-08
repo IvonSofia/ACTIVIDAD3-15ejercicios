@@ -1,0 +1,159 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+177
+'Bienvenidos estimado usuario, en este programa, el usuario ingresa por teclado, un signo zodiacal y el pc debe mostrar en pantalla: la fecha correspondiente al signo digitado.'
+4
+1
+49
+'Señor usuario ingrese el mes del año en letras.'
+5
+1
+6
+signos
+7
+0
+1
+62
+signos = 'Acuario' OR signos = 'acuario' OR signos = 'ACUARIO'
+7
+0
+1
+59
+signos = 'Piscis' OR signos = 'piscis' OR signos = 'PISCIS'
+7
+0
+1
+56
+signos = 'Aries' OR signos = 'aries' OR signos = 'ARIES'
+7
+0
+1
+56
+signos = 'Tauro' OR signos = 'tauro' OR signos = 'TAURO'
+7
+0
+1
+106
+signos = 'Geminis' OR signos = 'géminis' OR signos = 'Géminis' OR signos = 'GEMINIS' OR signos = 'geminis'
+7
+0
+1
+101
+signos = 'cancer' OR signos = 'Cáncer' OR signos = 'cáncer' OR signos = 'CANCER' OR signos = 'Cancer'
+7
+0
+1
+50
+signos = 'Leo' OR signos = 'LEO' OR signos = 'leo'
+7
+0
+1
+56
+signos = 'VIRGO' OR signos = 'Virgo' OR signos = 'virgo'
+7
+0
+1
+56
+signos = 'Libra' OR signos = 'LIBRA' OR signos = 'libra'
+7
+0
+1
+65
+signos = 'ESCORPIO' OR signos = 'Escorpio' OR signos = 'escorpio'
+7
+0
+1
+68
+signos = 'Sagitario' OR signos = 'SAGITARIO' OR signos = 'sagitario'
+7
+0
+1
+74
+signos = 'Capricornio' OR signos = 'CAPRICORNIO' OR signos = 'capricornio'
+4
+1
+52
+'Por favor ingresar correctamente el signo zodiacal'
+13
+4
+1
+38
+'Va desde Diciembre 21 asta Enero 19.'
+13
+13
+4
+1
+42
+'Va desde Noviembre 22 asta Diciembre 21.'
+13
+13
+4
+1
+40
+'Va desde Octubre 23 asta Noviembre 21.'
+13
+13
+4
+1
+41
+'Va desde Septiembre 23 asta Octubre 22.'
+13
+13
+4
+1
+40
+'Va desde Agosto 23 asta Septiembre 22.'
+13
+13
+4
+1
+35
+'Va desde Julio 23 asta Agosto 22.'
+13
+13
+4
+1
+34
+'Va desde Junio 21 asta Julio 22.'
+13
+13
+4
+1
+33
+'Va desde Mayo 21 asta Junio 20.'
+13
+13
+4
+1
+33
+'Va desde Abril 20 asta Mayo 20.'
+13
+13
+4
+1
+34
+'Va desde Marzo 21 asta Abril 19.'
+13
+13
+4
+1
+36
+'Va desde Febrero 19 asta Marzo 20.'
+13
+13
+4
+1
+36
+'Va desde Enero 20 asta Febrero 18.'
+13
+4
+1
+36
+'Gracias por usar nuestro algoritmo'
+1

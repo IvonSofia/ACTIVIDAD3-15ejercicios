@@ -1,0 +1,79 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+176
+'Bienvenidos estimado usuario, en este programa, el usuario ingresa por teclado tres números diferentes, positivos y enteros y el pc debe mostrar en pantalla cual es el menor.'
+4
+1
+37
+'Por favor ingresar el primer numero'
+5
+1
+7
+numero1
+4
+1
+38
+'Por favor ingresar el segundo numero'
+5
+1
+7
+numero2
+4
+1
+37
+'Por favor ingresar el tercer numero'
+5
+1
+7
+numero3
+7
+0
+1
+17
+numero1 < numero2
+7
+0
+1
+17
+numero2 < numero3
+7
+0
+1
+39
+numero3 < numero2 AND numero3 < numero1
+13
+4
+1
+24
+'El menor es: ', numero3
+13
+13
+4
+1
+24
+'El menor es: ', numero2
+13
+13
+7
+0
+1
+17
+numero1 < numero3
+13
+4
+1
+24
+'El menor es: ', numero1
+13
+13
+4
+1
+36
+'Gracias por usar nuestro algoritmo'
+1
